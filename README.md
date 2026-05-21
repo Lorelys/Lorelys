@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uli
 - 👀 I’m interested in AI training
-- 🌱 I’m currently learning basics
+- 🌱 I’m currently developing my products
 - 💞️ I’m looking to collaborate on developing a new AI based system for business analysis
 - 📫 How to reach me uli.elina@gmail.com
 - 😄 Pronouns: Uli
