@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Uli
 - 👀 I’m interested in AI training
-- 🌱 I’m currently developing my products
+- 🌱 I’m currently developing and piloting my products: Racem.io, Maat layer. SynWe
 - 💞️ I’m looking to collaborate on developing a new AI based system for business analysis
-- 📫 How to reach me uli.elina@gmail.com
+- 📫 How to reach me uli.elina@gmail.com, synwe.ai
 - 😄 Pronouns: Uli
 
 <!---
